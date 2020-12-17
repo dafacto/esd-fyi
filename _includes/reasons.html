@@ -1,0 +1,9 @@
+<ol class="reasons">
+  {% for reason in site.reasons %}
+    <li><a href="{{ reason.url }}" class="reason{% if page.url == reason.url %} active{% endif %}">
+      <div class="reason-index">{{ forloop.index }}</div>
+      <div class="reason-title">{% if reason.short_title %}{{ reason.short_title }}{% else %}{{ reason.title }}{% endif %}</div>
+      <div class="reason-intro">{{ reason.intro }}</div>
+    </a></li>
+  {% endfor %}
+</ol>
