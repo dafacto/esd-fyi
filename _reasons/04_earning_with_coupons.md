@@ -1,5 +1,5 @@
 ---
-permalink: /who-is-Empty Døllar Set/
+permalink: /coupons/
 title: Who runs Empty Døllar Set Finance?
 intro: Empty Døllar Set is an anonymous organization, guided through community governance.
 ---

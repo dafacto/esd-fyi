@@ -1,5 +1,5 @@
 ---
-permalink: /get-Empty Døllar Set/
+permalink: /lp/
 title: How do I get some Empty Døllar Sets?
 intro: You can earn ’em, or you can buy ’em.
 ---
