@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 title: Empty Døllar Set Resources
-intro: Essential resources of the ESD ecosystem
+intro: Essential resources of the ESD ecosystem.
 ---
 
 ### Official Resources
@@ -17,7 +17,6 @@ intro: Essential resources of the ESD ecosystem
 - [Token contract](https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723)
 - [ESD/USDC liquidity pool on Uniswap](https://app.uniswap.org/#/add/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
 - [ESD/USDC trading pair at Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x36f3fd68e7325a35eb768f1aedaae9ea0689d723)
-
 
 ### Community Resources
 
