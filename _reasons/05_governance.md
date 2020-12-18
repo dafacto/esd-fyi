@@ -16,4 +16,4 @@ Here’s how it works:
 
 At this point, you know all the basics of Empty Døllar Set!
 
-The last step of your introduction is a peek at some [helpful resources to get you started](resources)!
+The last step of your introduction is a peek at some [helpful resources to get you started](/resources/)!
