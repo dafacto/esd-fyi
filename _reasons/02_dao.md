@@ -14,7 +14,7 @@ Here’s how it works:
 
 Important things to know:
 
-- When you bond ESD in the DAO, there is a 15 epoch delay—i.e. 120 hours, or five days—before you can withdraw it, or bond additional ESD.
+- When you bond ESD in the DAO, there is a 15 epoch delay—i.e. 120 hours, or five days—before you can withdraw it, *or bond additional ESD* (so think carefully about how much you want to deposit as you’ll have to wait a week to deposit more!)
 - The lock status is shown under “Status” in the ESD platform. When locked, you’ll be shown after which epoch it becomes unlocked.
 - Any bonding interaction will reset the 15 epoch delay.
 - When ESD is in contractions, no rewards are earned.
