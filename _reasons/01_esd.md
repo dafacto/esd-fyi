@@ -1,10 +1,10 @@
 ---
 permalink: /esd/
-title: What is Empty Døllar Set?
+title: What is Empty Set Døllar?
 intro: An algorithmic stablecoin to power the future of finance.
 ---
 
-Empty Døllar Set — or ESD — is a cryptocurrency whose value is designed to track the US Dollar. Unlike stablecoins that are backed by physical dollars or collateral, such as USDC and DAI, the value of ESD is designed to be maintained through *market forces*.
+Empty Set Døllar — or ESD — is a cryptocurrency whose value is designed to track the US Dollar. Unlike stablecoins that are backed by physical dollars or collateral, such as USDC and DAI, the value of ESD is designed to be maintained through *market forces*.
 
 Here’s how it works, in a nutshell:
 

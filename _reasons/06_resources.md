@@ -1,12 +1,12 @@
 ---
 permalink: /resources/
-title: Empty Døllar Set Resources
+title: Empty Set Døllar Resources
 intro: Essential resources of the ESD ecosystem.
 ---
 
 ### Official Resources
 
-- [Empty Døllar Set Platform](https://app.emptyset.finance/)
+- [Empty Set Døllar Platform](https://app.emptyset.finance/)
 - [Medium](https://www.medium.com/@emptysetsquad)
 - [Twitter](https://www.twitter.com/emptysetsquad)
 - [GitHub](https://www.github.com/emptysetsquad/dollar)
@@ -21,7 +21,7 @@ intro: Essential resources of the ESD ecosystem.
 
 - [Discord](https://discord.gg/vPws9Vp) & [Telegram](https://www.t.me/emptysetdollar)
 - [ESD Statistics and APRs](https://esd.tools)
-- [Empty Døllar Set Instructional Videos](https://www.youtube.com/channel/UCYnAG5lxqiyIJfqTj6yHVqg) (@TheBeardedPrøf)
+- [Empty Set Døllar Instructional Videos](https://www.youtube.com/channel/UCYnAG5lxqiyIJfqTj6yHVqg) (@TheBeardedPrøf)
 
 ### Press
 

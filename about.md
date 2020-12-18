@@ -1,10 +1,10 @@
 ---
 permalink: /about/
 title: About this site
-intro: A Empty Døllar Set Community Information Project
+intro: A Empty Set Døllar Community Information Project
 ---
 
-This site is an informational contribution by the Empty Døllar Set Community, created and maintained by [@dafacto](http://twitter.com/dafacto). 
+This site is an informational contribution by the Empty Set Døllar Community, created and maintained by [@dafacto](http://twitter.com/dafacto). 
 
 
 The information contained on this website and the resources mentioned on this website is not intended as, and shall not be understood or construed as, financial advice. We are not attorneys, accountants or financial advisors, nor holding ourselves out to be, and the information contained on this website is not a substitute for financial advice from a professional.

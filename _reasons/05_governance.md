@@ -1,10 +1,10 @@
 ---
 permalink: /governance/
-title: Empty Døllar Set Governance
+title: Empty Set Døllar Governance
 intro: Get involved, and help shape the future of ESD!
 ---
 
-The Empty Døllar Set project intends to operate as a “DAO”, or *decentralized autonomous organization*, allowing those who have ESD bonded in the DAO to propose on and vote for proposals that shape the evolution of the protocol.
+The Empty Set Døllar project intends to operate as a “DAO”, or *decentralized autonomous organization*, allowing those who have ESD bonded in the DAO to propose on and vote for proposals that shape the evolution of the protocol.
 
 Here’s how it works:
 
@@ -12,8 +12,8 @@ Here’s how it works:
 
 2. Proposals that proceed to vote are added to the Governance screen of the ESD platform.
 
-3. If you have ESD bonded in the DAO, you can click the “Go To” button on any active proposal, and vote in favor or against the proposal. ESD use a “quadratic voting” mechanism, that weights votes according to the amount of ESD held, but with a decaying factor that allows broader and fairer participation, decreasing the influence of “whales”.
+3. If you have ESD bonded in the DAO, you can click the “Go To” button on any active proposal, and vote in favor or against the proposal.
 
-At this point, you know all the basics of Empty Døllar Set!
+At this point, you know all the basics of Empty Set Døllar!
 
 The last step of your introduction is a peek at some [helpful resources to get you started](/resources/)!
