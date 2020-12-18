@@ -24,4 +24,4 @@ Useful terminology:
 
 At the time of this writing, ESD is getting a lot of press because of the high APRs paid to DAO stakers and liquidity providers, so let’s learn about those.
 
-Let’s now explore those three ways to earn ESD, [beginning with the DAO.](/dao//) →
+Let’s explore those three ways to earn ESD, [beginning with the DAO.](/dao//) →
