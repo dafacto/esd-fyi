@@ -7,9 +7,8 @@ intro: Essential resources of the ESD ecosystem.
 ### Official Resources
 
 - [Empty Døllar Set Platform](https://app.emptyset.finance/)
-- [ESD Statistics and APRs](https://esd.tools)
 - [Medium](https://www.medium.com/@emptysetsquad)
-- [Discord](https://discord.gg/vPws9Vp), [Telegram](https://www.t.me/emptysetdollar), & [Twitter](https://www.twitter.com/emptysetsquad)
+- [Twitter](https://www.twitter.com/emptysetsquad)
 - [GitHub](https://www.github.com/emptysetsquad/dollar)
 
 ### Network Resources
@@ -20,6 +19,8 @@ intro: Essential resources of the ESD ecosystem.
 
 ### Community Resources
 
+- [Discord](https://discord.gg/vPws9Vp) & [Telegram](https://www.t.me/emptysetdollar)
+- [ESD Statistics and APRs](https://esd.tools)
 - [Empty Døllar Set Instructional Videos](https://www.youtube.com/channel/UCYnAG5lxqiyIJfqTj6yHVqg) (@TheBeardedPrøf)
 
 ### Press
