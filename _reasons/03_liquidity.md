@@ -8,16 +8,16 @@ When the ESD protocol is in expansion—i.e. the TWAP is greater than $1—appro
 
 Here’s how it works:
 
-1.  Deposit equal USD-value amounts of ESD and USDC into the [Uniswap liquidity pool](https://app.uniswap.org/#/add/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48). As a receipt of deposit, you’ll receive  “Uniswap LP tokens”.
-2.  The next step is to deposit, or “stage”, those Uniswap LP tokens in the Liquidity section of the ESD platform.
+1.  Step one is to deposit equal USD-value amounts of ESD and USDC into the [Uniswap liquidity pool](https://app.uniswap.org/#/add/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48). As a receipt of deposit, you’ll receive  “Uniswap LP tokens”.
+2.  Step two is to deposit, or “stage”, those Uniswap LP tokens in the Liquidity section of the ESD platform.
 3.  Once staged, the final step is to “bond” those LP tokens. Once bonded, you will begin receiving ESD rewards while the protocol is in expansion!
 
 Important things to know:
 
 - When you bond LP tokens, there is a 5 epoch delay—i.e. 40 hours, or 1.6 days—before you can withdraw them, or bond additional tokens. 
-- The lock status is shown under “Pool Status”. When locked, you’ll be shown after which epoch your pool becomes unlocked.
-- Any bonding interaction will reset the 5 epoch delay.
-- When ESD is in contractions, no rewards are earned, although you will continue to earn trading fees at Uniswap.
+- Your lock status is displayed under “Pool Status”. If locked, you’ll be shown after which epoch your pool becomes unlocked.
+- Any interaction with bonding will reset the 5 epoch delay.
+- When ESD is in contraction, no rewards are earned, although you will continue to earn trading fees at Uniswap.
 - Unlike the DAO, LP rewards are in the form of *claimable ESD tokens*. These rewards will appear as your “Rewarded” balance on the Liquidity screen.
 - There are two things you can do with your rewards, *claim* them, or *provide* them as additional liquidity.
 
