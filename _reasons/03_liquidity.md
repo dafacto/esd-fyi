@@ -4,7 +4,7 @@ title: Earn ESD as a Liquidity Provider
 intro: Lock your Uniswap LP tokens to earn ESD during expansion.
 ---
 
-When the ESD protocol is in expansion, i.e. the TWAP is greater than $1, approximately 20% of new emissions are awarded to liquidity providers, or “LPs”. Liquidity providers are people who deposit both ESD and USDC at Uniswap, to facilitate trading. The APR on LP rewards has been as high as 2,000%!
+When the ESD protocol is in expansion—i.e. the TWAP is greater than $1—approximately 20% of new emissions are awarded to liquidity providers, or “LPs”. Liquidity providers are people who deposit both ESD and USDC at Uniswap, to facilitate trading. The APR on LP rewards has been as high as 2,000%!
 
 Here’s how it works:
 

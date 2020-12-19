@@ -4,7 +4,7 @@ title: Earn ESD with the DAO
 intro: Lock your ESD in the DAO to earn ESD during expansion.
 ---
 
-When the ESD protocol is in expansion, i.e. the TWAP is greater than $1, 77.5% of new emissions are awarded to people who have staked—or “bonded”—some ESD in the DAO. The APR on bonding rewards has been as high as 3,500%!
+When the ESD protocol is in expansion—i.e. the TWAP is greater than $1—77.5% of new emissions are awarded to people who have staked—or “bonded”—some ESD in the DAO. The APR on bonding rewards has been as high as 3,500%!
 
 Here’s how it works:
 
