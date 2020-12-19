@@ -14,6 +14,10 @@ Here’s how it works:
 
 3. If you have ESD bonded in the DAO, you can click the “Go To” button on any active proposal, and vote in favor or against the proposal.
 
+Important to know:
+
+- Voting for a given proposal usually lasts for nine epochs, during which the DAO tokens of voters are locked (but still earning rewards). Many people wait to vote in the last epoch, to be locked for the minimum amount of time.
+
 At this point, you know all the basics of Empty Set Døllar!
 
 The last step of your introduction is a peek at some [helpful resources to get you started](/resources/)!
