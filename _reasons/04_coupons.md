@@ -4,7 +4,7 @@ title: Earn ESD with the Coupons
 intro: Purchase coupons at a premium when ESD is in contraction.
 ---
 
-When ESD is in contraction, i.e. the TWAP is less than $1, the protocol sells *coupons* at a premium. This means for each 1 ESD worth of coupons, you’ll pay something less than 1 ESD, and later be able to redeem them for 1 ESD, when the protocol is again in expansion.
+When ESD is in contraction—i.e. the TWAP is less than $1—the protocol sells *coupons* at a premium. This means for each 1 ESD worth of coupons, you’ll pay something less than 1 ESD, and later be able to redeem them for 1 ESD, when the protocol is again in expansion.
 
 To pay for coupons, you will “burn” your ESD, thereby destroying them. Burning ESD results in decreasing the total ESD supply, which should have the effect of increasing the market price of ESD, brining it back towards a value of $1.
 

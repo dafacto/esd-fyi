@@ -30,8 +30,8 @@ Claiming ESD rewards:
 
 Providing ESD rewards back to the liquidity pool:
 
-- To provide your rewarded ESD as additional liquidity, you simply use the “Provide” button. The ESD website will calculate the USD equivalent in USDC that you’ll need to have available in your wallet, to match the ESD you are trying to provide.
+- To provide your rewarded ESD as additional liquidity, you simply use the “Provide” button. The website will calculate the USD equivalent in USDC that you’ll need to have available in your wallet, to match the ESD you are trying to provide.
 - You don’t have to provide your full rewards balance; you can enter a smaller amount if you wish.
-- Providing additional liquidity this way does not trigger a new 5-epoch delay!
+- Providing additional liquidity this way does not trigger a new 5-epoch delay.
 
 Let’s now look at [earning ESD through coupons!](/coupons/) →
