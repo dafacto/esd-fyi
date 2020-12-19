@@ -4,7 +4,7 @@ title: Earn ESD with the DAO
 intro: Lock your ESD in the DAO to earn ESD during expansion.
 ---
 
-When the ESD protocol is in expansion, i.e. the TWAP is greater than $1, approximately 80% of new emissions are awarded to people who have staked—or “bonded”—some ESD in the DAO. The APR on bonding rewards has been as high as 3,500%!
+When the ESD protocol is in expansion, i.e. the TWAP is greater than $1, 77.5% of new emissions are awarded to people who have staked—or “bonded”—some ESD in the DAO. The APR on bonding rewards has been as high as 3,500%!
 
 Here’s how it works:
 
@@ -17,6 +17,7 @@ Important things to know:
 - When you bond ESD in the DAO, there is a 15 epoch delay—i.e. 120 hours, or five days—before you can withdraw it, *or bond additional ESD* (so think carefully about how much you want to deposit as you’ll have to wait a week to deposit more!)
 - The lock status is shown under “Status” in the ESD platform. When locked, you’ll be shown after which epoch it becomes unlocked.
 - Any bonding interaction will reset the 15 epoch delay.
+- Technically, when the TWAP is greater than $1, the DAO earns rewards *only after all coupons have been made redeemable*. We’ll learn about coupons in a bit.
 - When ESD is in contractions, no rewards are earned.
 
 Let’s now look at [how to earn as a liquidity provider!](/lp/) →

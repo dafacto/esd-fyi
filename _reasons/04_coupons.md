@@ -8,9 +8,9 @@ When ESD is in contraction, i.e. the TWAP is less than $1, the protocol sells *c
 
 To pay for coupons, you will “burn” your ESD, thereby destroying them. Burning ESD results in decreasing the total ESD supply, which should have the effect of increasing the market price of ESD, brining it back towards a value of $1.
 
-Purchasing coupons can be very profitable. For example, if you bought 1 ESD of coupons for 0.75 ESD, and redeemed them for 1 ESD in a month, that’s an annualized return of roughly 400%!
+Purchasing coupons can be very profitable. For example, if you bought 1 ESD of coupons for 0.75 ESD, and redeemed them for 1 ESD in a week, that’s an annualized return of roughly 1,400%!
 
-What is the risk? The risk is that *purchased coupons expire after 30 days*. This means that if ESD doesn’t enter expansion within 30 days of purchase, your coupons expire worthless.
+What is the risk? The risk is that *purchased coupons expire after 90 epochs, or approximately 30 days*. This means that if ESD doesn’t enter expansion during that time, your coupons expire worthless.
 
 With that as background, here’s how it works:
 
