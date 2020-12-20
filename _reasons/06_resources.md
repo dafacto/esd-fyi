@@ -26,3 +26,4 @@ intro: Essential resources of the ESD ecosystem.
 
 ### Press
 
+- [A Deep Dive into Algorithmic Stablecoins](https://insights.deribit.com/market-research/stability-elasticity-and-reflexivity-a-deep-dive-into-algorithmic-stablecoins/)
